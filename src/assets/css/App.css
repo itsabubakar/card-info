@@ -1,0 +1,8 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.hero {
+    background-image: url('../img/bg-main-desktop.png');
+    background-repeat: no-repeat;
+}
